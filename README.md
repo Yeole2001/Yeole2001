@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋 I am Atharv Yeole
 
-<!--
+
 **Yeole2001/Yeole2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -66,12 +67,12 @@ Find More Details about my Projects [here](https://github.com/Yeole2001?tab=repo
 ### 🎯 Github Stats
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P-28032002&show_icons=true&theme=bear" width=400>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=P-28032002&theme=dark&hide_border=true" width=400>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeole2001&show_icons=true&theme=bear" width=400>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yeole2001&theme=dark&hide_border=true" width=400>
 </p>
 
 <p align="center"> 
   Profile Views
   <br>
-  <img src="https://profile-counter.glitch.me/P-28032002/count.svg" />
+  <img src="https://profile-counter.glitch.me/Yeole2001/count.svg" />
 </p>
